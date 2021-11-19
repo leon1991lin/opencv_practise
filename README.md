@@ -1,1 +1,1 @@
-# opencv_practise
+# Open CV practise
